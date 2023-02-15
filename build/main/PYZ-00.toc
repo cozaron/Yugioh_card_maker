@@ -1,0 +1,2800 @@
+('C:\\Users\\Hadj Meridja\\PycharmProjects\\AYGO\\build\\main\\PYZ-00.pyz',
+ [('Crops',
+   'C:\\Users\\Hadj Meridja\\PycharmProjects\\AYGO\\Crops.py',
+   'PYMODULE'),
+  ('Make_card',
+   'C:\\Users\\Hadj Meridja\\PycharmProjects\\AYGO\\Make_card.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('YDK', 'C:\\Users\\Hadj Meridja\\PycharmProjects\\AYGO\\YDK.py', 'PYMODULE'),
+  ('__future__',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('api', 'C:\\Users\\Hadj Meridja\\PycharmProjects\\AYGO\\api.py', 'PYMODULE'),
+  ('argparse',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.assets',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.md',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\md.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('image_operations',
+   'C:\\Users\\Hadj Meridja\\PycharmProjects\\AYGO\\image_operations.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pandas',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_testing\\__init__.py',
+   'PYMODULE'),
+  ('pandas._testing._io',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_testing\\_io.py',
+   'PYMODULE'),
+  ('pandas._testing._random',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_testing\\_random.py',
+   'PYMODULE'),
+  ('pandas._testing._warnings',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_testing\\_warnings.py',
+   'PYMODULE'),
+  ('pandas._testing.asserters',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_testing\\asserters.py',
+   'PYMODULE'),
+  ('pandas._testing.compat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_testing\\compat.py',
+   'PYMODULE'),
+  ('pandas._testing.contexts',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_testing\\contexts.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat.chainmap',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\compat\\chainmap.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.compat.pyarrow',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\compat\\pyarrow.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.aggregation',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\aggregation.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.putmask',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\array_algos\\putmask.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.quantile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\array_algos\\quantile.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.take',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\array_algos\\take.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_utils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.dtype',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\dtype.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.describe',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\describe.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.numeric',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\api.py',
+   'PYMODULE'),
+  ('pandas.core.internals.array_manager',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\array_manager.py',
+   'PYMODULE'),
+  ('pandas.core.internals.base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.methods',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\methods.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.roperator',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.doc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\doc.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.indexers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.online',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\online.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.io.date_converters',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\date_converters.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlwt',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\excel\\_xlwt.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.latex',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\latex.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style_render',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\style_render.py',
+   'PYMODULE'),
+  ('pandas.io.formats.xml',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\formats\\xml.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.base_parser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\parsers\\base_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.c_parser_wrapper',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\parsers\\c_parser_wrapper.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.python_parser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\parsers\\python_parser.py',
+   'PYMODULE'),
+  ('pandas.io.parsers.readers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\parsers\\readers.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.xml',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\io\\xml.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util.testing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\util\\testing.py',
+   'PYMODULE'),
+  ('pandas.util.version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pandas\\util\\version\\__init__.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources.py2_warn',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\py2_warn.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\hadj '
+   'meridja\\appdata\\local\\programs\\python\\python37\\lib\\zipfile.py',
+   'PYMODULE')])
